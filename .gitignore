@@ -1,3 +1,8 @@
+node_modules
+.next
+target
+
+
 # Compiled class file
 *.class
 
